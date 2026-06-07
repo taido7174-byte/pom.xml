@@ -1,0 +1,4 @@
+name: KhoKhoangSan
+version: 2.0
+main: com.skyblock.kho.SkyblockKho
+api-version: 1.20
