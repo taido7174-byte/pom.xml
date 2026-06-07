@@ -1,0 +1,9 @@
+package com.skyblock.kho;
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class SkyblockKho extends JavaPlugin {
+    @Override
+    public void onEnable() {
+        getLogger().info("Plugin Kho Khoang San da bat thanh cong!");
+    }
+}
